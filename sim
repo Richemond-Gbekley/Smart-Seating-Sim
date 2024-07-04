@@ -120,7 +120,7 @@ import org.fog.utils.distribution.DeterministicDistribution;
 			CloudSim.startSimulation();
 
 			CloudSim.stopSimulation();
-			Log.printLine("VRGame finished!");
+			Log.printLine("Smart Seating System Finished!");
 		}
 		catch (Exception e) {
 			e.printStackTrace();
